@@ -1,16 +1,13 @@
-# flutterduo
+**FlutterDuo**
 
-A new Flutter project.
+**Short description**
 
-## Getting Started
+FlutterDuo is a lightweight demo application that showcases both Material and Cupertino (iOS) widgets and patterns side-by-side. It’s designed to help developers compare themes, navigation behaviors, and platform-specific UI components.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_**Features**_
+Material (Android) and Cupertino (iOS) UI examples
+Light / Dark theme toggle
+Platform switch (Material ↔ Cupertino) from the AppBar / NavigationBar
+Shared widgets to demonstrate parity between platforms (Lists, Cards, Forms)
+Platform-aware navigation (MaterialPageRoute / CupertinoPageRoute)
+Sample assets, icons, and responsive layout examples
