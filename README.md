@@ -4,7 +4,7 @@
 
 FlutterDuo is a lightweight demo application that showcases both Material and Cupertino (iOS) widgets and patterns side-by-side. It’s designed to help developers compare themes, navigation behaviors, and platform-specific UI components.
 
-_**Features**_
+**Features**
 Material (Android) and Cupertino (iOS) UI examples
 Light / Dark theme toggle
 Platform switch (Material ↔ Cupertino) from the AppBar / NavigationBar
